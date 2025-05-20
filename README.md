@@ -26,10 +26,10 @@ This project is a Python-based real-time object detection system that uses the Y
 # ▶ How to Run
 Clone this repository.
 
-Make sure your webcam is connected.
+-Make sure your webcam is connected.
 
-Run the script:
+-Run the script:
 
-python object_count.py
+-python object_count.py
 
-Press q to quit the live feed.
+-Press q to quit the live feed.
