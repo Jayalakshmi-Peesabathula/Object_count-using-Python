@@ -22,10 +22,6 @@ This project is a Python-based real-time object detection system that uses the Y
 -Built using YOLOv8 from Ultralytics
 # Install dependencies:
 
--bash
-
--Copy code
-
 -pip install ultralytics opencv-python
 # ▶ How to Run
 Clone this repository.
@@ -33,10 +29,6 @@ Clone this repository.
 Make sure your webcam is connected.
 
 Run the script:
-
-bash
-
-Copy code
 
 python object_count.py
 
